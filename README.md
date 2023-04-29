@@ -1,6 +1,8 @@
-# Marrow SDK - with Flasks
+# (Extended) Marrow SDK - with Flasks
 SDK Tools used to make Mods for the Marrow Interaction Engine, packaged content in Crates stacked on Pallets.
 
-Flasks is a new crate type for BONELAB's Warehouse that loads in any custom code that a pallet provides. The concepts of Flasks gains the benefits of the Warehouse system, granting the benefits of ease of use and modularity to the world of code modding. For example, it can be used for custom gamemodes, custom NPCs, and special behaviour for custom weapons, all done within the Marrow SDK.
+Flasks is a new crate type for BONELAB's Warehouse that loads in any custom code that a pallet provides. The concepts of Flasks gains the benefits of the Warehouse system, granting the benefits of ease of use and modularity to the world of code modding. For example, it can be used for custom gamemodes, custom NPCs, and special behaviour for custom weapons, all done within the Marrow SDK.  
+The Extended Marrow SDK contains dummy/stub scripts that allow for creation of grips, guns, melee, etc. using scripts from the game itself.
 
-# [Documentation](https://github.com/maranarasauce/MarrowSDK/wiki)
+# [Flasks Documentation](https://github.com/maranarasauce/MarrowSDK/wiki)
+# [Extended SDK Documentation](https://github.com/notnotnotswipez/Marrow-ExtendedSDK-PATCH-2)
